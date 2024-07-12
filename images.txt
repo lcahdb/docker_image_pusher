@@ -1,1 +1,1 @@
-baota/panel
+baota/panel:latest
