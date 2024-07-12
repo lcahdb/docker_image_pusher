@@ -1,1 +1,1 @@
-https://hub.docker.com/r/pch18/baota
+baota/panel:latest
